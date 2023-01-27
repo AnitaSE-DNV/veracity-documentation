@@ -22,7 +22,7 @@ To navigate to an entity or a report:
 1. In your VAP service, go to the **Home** tab.
 2. Select the tile with the name of the entity or report you want to go to.
 
-## Reading reports
+## View and interact with a reports
 
 To navigate to a report tab, under the **Home tab**, select the report tab you want to go to.
 
@@ -31,6 +31,7 @@ In the top right corner of the window, you can see the following icons.
 * The download icon - download the PDF or the image.
 * "Generate a link for current report" - select it to see the URL to the report. To copy it, select the **Copy to clipboard** button.
 * The bookmark icon - add bookmarks, share them, and navigate to available bookmarks. For details, go [here](bookmarks.md).
+* The Export icon - select it to export to PDF or PowerPoint and open the downloaded file, with snapshot of the current view and data, when produced.
 * The attached files icon - after selecting it, shows a dropdown with the files attached to the report. To see a file, select it from the dropdown.
 
-The icons above are listed from the first to the last icon from the left. Note that these options are configured by the report author and because of that some of them might be unavailable for the report you are reading.
+The icons above are listed from the first to the last icon from the left. Note that these options are configured by the report author and because of that some of them might be unavailable for the report you are interacting with it.
