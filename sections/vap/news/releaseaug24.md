@@ -12,7 +12,7 @@ This section covers new features.
 
 ### Edit report or entity from Home
 
-As a Data Admin, you can now edit a report or entity from the **Home** page. When you view a report or entity, in the top right corner of the page, select **Edit** and then choose either **Edit Entity** or **Edit Report**. This will open the current entity or report and you can make changes.
+As a System, Report or Data Admin, you can now edit a report or entity from the **Home** page. When you view a report or entity, in the top right corner of the page, select **Edit** and then choose either **Edit Entity** or **Edit Report**. This will open the current entity or report and you can make changes.
 
 ### New Tenant Properties for invoicing automation
 
